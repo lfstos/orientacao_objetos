@@ -1,4 +1,4 @@
-from abstracao_de_dado import Fila
+from live61.abstracao_de_dado import Fila
 
 
 def test_adiciona_um_usuario_na_fila_do_supermercado():
